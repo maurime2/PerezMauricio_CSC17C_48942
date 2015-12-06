@@ -1,0 +1,15 @@
+Create a tree class.
+
+Review
+
+httpwww.radicalabacus.orgpostshowtreeavl_tree_rotations_explained
+
+httpwww.cs.usfca.edu~gallesvisualizationAVLtree.html
+
+httpwww.cs.usfca.edu~gallesvisualizationBST.html
+
+Functions to include would be insert, delete, balance, print with the 3 types of traversals.
+
+Show that it works by randomly filling the tree, and selectively deleting elements and then traversing the tree.
+
+Post here, upload to your repository, zip the folder and email to mark.lehr@rcc.edu with subject  Lastname, Firstname - Trees - 48942

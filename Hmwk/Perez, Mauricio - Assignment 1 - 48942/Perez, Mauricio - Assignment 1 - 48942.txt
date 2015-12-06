@@ -4,4 +4,5 @@ https://github.com/ml1150258/LehrMark_CSC17C_48942/tree/master/Class/TriangularM
 
 Test for integers and floats, fill randomly with fixed column size in a user defined array.
 
-Submit the zip file here, post to github, attach to an email and send to mark.lehr@rcc.edu with subject: Lastname, Firstname - Assignment 1 - 48942
+Submit the zip file here, post to github, attach to an email and send to mark.lehr@rcc.edu with subject: 
+Perez, Mauricio - Assignment 1 - 48942

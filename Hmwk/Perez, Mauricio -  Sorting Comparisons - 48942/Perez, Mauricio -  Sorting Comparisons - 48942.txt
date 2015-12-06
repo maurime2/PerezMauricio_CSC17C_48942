@@ -6,4 +6,5 @@ http://www.cs.usfca.edu/~galles/visualization/Heap.html
 
 http://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
 
-Post here, send an email which copies yourself to mark.lehr@rcc.edu with subject:  Perez, Mauricio -  Sorting Comparisons - 48942
+Post here, send an email which copies yourself to mark.lehr@rcc.edu with subject:
+Perez, Mauricio -  Sorting Comparisons - 48942

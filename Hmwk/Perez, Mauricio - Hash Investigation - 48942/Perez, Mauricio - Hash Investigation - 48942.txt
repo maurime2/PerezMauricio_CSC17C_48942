@@ -1,0 +1,8 @@
+Investigate the properties of hashing.  See attached.
+
+We spent several weeks showing how soon a collision occurs, and how small the maximum number of collisions are when hashing.
+
+Using the hashes provided.  Prove these properties as a function of N.
+
+Zip the folder, submit your proof here and send an email which copies yourself to mark.lehr@rcc.edu with subject:  
+Perez, Mauricio - Hash Investigation - 48942

@@ -1,0 +1,5 @@
+Post here and send with properly headed email.
+
+Your project should be >750 lines of code with concepts utilized and covered from the midterm till now.  So extend your project with hashing, and trees.
+
+Same writeup as before required, so see attached examples.
